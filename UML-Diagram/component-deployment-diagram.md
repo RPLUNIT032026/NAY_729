@@ -62,4 +62,3 @@ flowchart TB
     B <-->|"Memuat halaman dan menjalankan JavaScript"| APP
 ```
 
-antarkomponen. Deployment Diagram menjelaskan tempat aplikasi dijalankan dan bagaimana browser, file aplikasi, serta data sementara digunakan. Kedua diagram saling melengkapi dalam dokumentasi perancangan sistem.
