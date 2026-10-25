@@ -84,7 +84,6 @@ Sistem menggabungkan **miniatur area parkir, sensor, mikrokontroler, database, d
 * 🚗 Deteksi kendaraan
 * 🅿️ Informasi slot kosong dan terisi
 * 🚦 Indikator status parkir
-* 📊 Statistik penggunaan parkir
 * 🕐 Riwayat kendaraan masuk dan keluar
 * 🌐 Dashboard berbasis web
 * 🔄 Sinkronisasi data kondisi fisik dengan representasi digital
